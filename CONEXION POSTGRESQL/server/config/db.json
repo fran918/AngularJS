@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "/*USERNAME*/",
+    "password": "/*PASSWORD*/",
+    "database": "/*DATABASE*/",
+    "host": "/*IP*/",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "/*USERNAME*/",
+    "password": "/*PASSWORD*/",
+    "database": "RHv2",
+    "host": "/*IP*/",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "/*USERNAME*/",
+    "password": "/*PASSWORD*/",
+    "database": "/*DATABASE*/",
+    "host": "/*IP*/",
+    "dialect": "mysql"
+  }
+}
